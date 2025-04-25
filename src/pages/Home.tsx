@@ -21,8 +21,8 @@ const Home: React.FC = () => {
             <BookOpen className="h-16 w-16" />
           </div>
           
-          <h1 className="text-4xl font-bold mb-3">বাংলা MCQ পরীক্ষা</h1>
-          <p className="text-xl mb-8">২৫ মিনিটের মধ্যে ১৫টি প্রশ্নের উত্তর দিন</p>
+          <h1 className="text-4xl font-bold mb-3">উচ্চতর গনিত MCQ পরীক্ষা</h1>
+          <p className="text-xl mb-8">২৫ মিনিটের মধ্যে ২৫টি প্রশ্নের উত্তর দিন</p>
           
           <div className="flex flex-wrap justify-center gap-4 text-sm">
             <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full">
