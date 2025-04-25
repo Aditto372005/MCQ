@@ -10,7 +10,7 @@ interface HeaderProps {
 }
 
 const Header: React.FC<HeaderProps> = ({ 
-  title = "বাংলা MCQ পরীক্ষা", 
+  title = "উচ্চতর গনিত MCQ পরীক্ষা", 
   showLogo = true,
   isAdmin = false,
   onLogout
