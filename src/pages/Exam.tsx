@@ -94,7 +94,7 @@ const Exam: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50 pb-20">
       <Header />
-      <Timer duration={25} onTimeUp={handleTimeUp} />
+      <Timer duration={30} onTimeUp={handleTimeUp} />
       
       <div className="max-w-3xl mx-auto py-20 px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
