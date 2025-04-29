@@ -26,10 +26,10 @@ const Home: React.FC = () => {
           
           <div className="flex flex-wrap justify-center gap-4 text-sm">
             <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full">
-              ২৫ মিনিট সময়সীমা
+              ৩০ মিনিট সময়সীমা
             </div>
             <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full">
-              ১৫টি MCQ প্রশ্ন
+              ৩০টি MCQ প্রশ্ন
             </div>
             <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full">
               অবিলম্বে ফলাফল
